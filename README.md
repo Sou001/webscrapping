@@ -3,7 +3,17 @@
 
 ### Context of this github 📉
 
-project aims to collect data from website specialized in home sales
+Project aims to collect data from website specialized in home sales. 
+
+Steps of the project 🔎 : 
+
+    1 - Collect data from macro pages where there are multiple ads published and save the link to each ad's page
+
+    2 - then collect data from each ad's page 
+
+    3 - Structure the data and preprocess it 
+
+    4 - Connect to DB and store processed data in it
 
 
 ### Organisation 📁
