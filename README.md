@@ -1,8 +1,13 @@
 # webscrapping
+
+
+### Context of this github 📉
+
 project aims to collect data from website specialized in home sales
 
 
-
+### Organisation 📁
+```
 webscrapping
 │
 ├── 01 webscrapping_preprocessing.ipynb
