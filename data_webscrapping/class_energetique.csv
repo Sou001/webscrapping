@@ -1,0 +1,8 @@
+id_classe_energetique,lb_classe_energetique
+A,< 70
+B,70 à 109
+C,110 à 179
+D,180 à 249
+E,250 à 329
+F,330 à 419
+G,>= 420
